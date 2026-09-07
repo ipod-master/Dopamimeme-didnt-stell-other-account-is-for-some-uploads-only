@@ -269,6 +269,7 @@ void install_builtin_packages(void)
 		if (@available(iOS 19.0, *)) {
 			// If we just installed prep packages on iOS 26+, load daemons now
 			// This wasn't working before, since launchctl had to be updated first
+			// Also supports iOS 27 beta 1-4
 			load_var_jb_daemons();
 		}
 	}
