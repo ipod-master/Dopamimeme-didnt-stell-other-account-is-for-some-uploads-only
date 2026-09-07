@@ -2,4 +2,9 @@
 
 # Dopamine
 
-ios 27 idk
+A semi-untethered jailbreak for iOS 15 to 27 beta 4
+
+## Supported iOS Versions
+
+- iOS 15 - iOS 26
+- iOS 27 beta 1 - iOS 27 beta 4
